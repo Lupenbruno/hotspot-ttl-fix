@@ -36,7 +36,7 @@ Bu araç eğitim amaçlıdır ve **kendi cihazlarınızda / kendi internet bağl
 
 ## Katkı Sağlayanlar
 
-- [@Lupenbruno](https://github.com/Lupenbruno) — Fikir, yazar
+- [@Lupenbruno](https://github.com/Lupenbruno) — Fikir, yazar , Script
 - **Claude (Anthropic)** — Script ve dokümantasyon
 
 ## Destek Verenler
